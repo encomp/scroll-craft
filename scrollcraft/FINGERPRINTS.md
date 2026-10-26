@@ -63,3 +63,4 @@ If you want to see what a filled-in table looks like, and which shapes tend to
 collide, read `EXAMPLES.md` in the scroll-craft repository. Treat it as
 illustration only: those rows are somebody else's builds and they do **not**
 constrain yours.
+| Señal Flow homepage | Chaptered editorial | Margin signal rail (Pulse Path trace + folio), no top bar | Title page: type on paper plus lead-form plate, no media | 7 chapters: title, 4 sticky problem-to-fix spreads, pinned call (largest span, 6vh), start+book, price, why/FAQ, colophon; ~19vh | Colophon: one line of running text with an inline link | Signal rail: scroll draws the brand's S-curve, one station per problem flips hollow to filled as its fix lands | SVG/CSS only, warm cream and umber | Astro 6 (senalflow repo) |
